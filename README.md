@@ -14,6 +14,13 @@ ordinary Dart list manipulation.
 
 ---
 
+
+<img width="1376" height="768" alt="image" src="https://github.com/user-attachments/assets/e22b1c10-b1ef-4ac7-a36c-d7652be22a1b" />
+
+
+
+---
+
 ## The Problem
 
 ```dart
